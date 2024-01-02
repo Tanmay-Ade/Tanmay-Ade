@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/Tanmay-Ade)
 <h1 align="center">Hi 👋, I'm TANMAY ADE</h1>
 <h3 align="center">Gum-Gum Growth, stretching my skills from front-end to back-end, like Gear Four Luffy!</h3>
-<img align="right" alt="Coding" width="400" src=[https://cutt.ly/XN4CUFE] />
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
 
 # 💫 About Me:
 🔭 I'm currently working on **REACT LIBRARY**<br>🌱 I'm currently learning **backend**<br>💬 Ask me about **html,css,javascript,bootstrap,tailwindcss,node.js**<br>🤝 How to reach me **tanmayade6698@gmail.com**<br>⚡ Fun fact **Coding Otaku**
